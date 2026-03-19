@@ -2,7 +2,7 @@
     "owner": {
         "username": "gabrielscharb"
     },
-    "record": {
+    "records": {
         "NS": [
             "marlowe.ns.cloudflare.com",
             "ned.ns.cloudflare.com"
