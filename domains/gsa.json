@@ -4,8 +4,8 @@
     },
     "record": {
         "NS": [
-            "NOME1.NS.CLOUDFLARE.COM",
-            "NOME2.NS.CLOUDFLARE.COM"
+            "marlowe.ns.cloudflare.com",
+            "ned.ns.cloudflare.com"
         ]
     }
 }
